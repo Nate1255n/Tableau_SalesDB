@@ -1,3 +1,3 @@
 # Tableau_Sales/Customer_DB
-## Dashboard Purpose
-I have built these two dashboards to help stakeholders understand sales & customers performance. 
+## Dashboard Objective
+Build insightful dashboard to help stakeholders understand sales & customers performance. 

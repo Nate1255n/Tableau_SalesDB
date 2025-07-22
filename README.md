@@ -1,6 +1,6 @@
 # Tableau_Sales/Customer_DB
 ## Dashboard Objective
-Build insightful dashboard to help stakeholders understand sales & customers performance. 
+Build an insightful dashboard to help stakeholders understand KPI metrics, analyze year-over-year performance and recognize sales & customers patterns.
 
 ## Data used in Project
 - <a href="https://github.com/Nate1255n/Tableau_SalesDB/blob/main/Data/Customers.csv">Dataset_Customers</a>

@@ -3,4 +3,4 @@
 Build insightful dashboard to help stakeholders understand sales & customers performance. 
 
 ## Data Used
-https://github.com/Nate1255n/Tableau_SalesDB/blob/main/Products.csv
+- <a href="https://github.com/Nate1255n/Tableau_SalesDB/blob/main/Products.csv">Dataset</a>

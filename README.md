@@ -18,8 +18,8 @@ Build an insightful dashboard to help stakeholders understand KPI metrics, analy
 - Present the data for each KPI on a monthly basis for both the current year and the previous year.
 - Identify months with highest and lowest sales and make them easy to recognize.
 
-## Build the data model
-<img width="652" height="364" alt="image" src="https://github.com/user-attachments/assets/32de2d26-0e97-424a-afe3-2baba791ad73" />
+## Build the data model (652) (364)
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/32de2d26-0e97-424a-afe3-2baba791ad73" />
 
 
 

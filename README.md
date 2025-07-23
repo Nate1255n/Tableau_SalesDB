@@ -26,10 +26,18 @@ Build an insightful dashboard to help stakeholders understand KPI metrics, analy
 <img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/32de2d26-0e97-424a-afe3-2baba791ad73" />
 
 ## Build the chart & Create Dashboard
-- Create calculated fields
+- Create Calculated Fields (examples below):
+  - YoY Sales, Profit, Quantity, etc.
+  - Index values
+  - Min/Max Sales, Profit, Quanity, etc.
 - Chart & Dashboard Link:
   [Sales & Customer_Dashboard](https://public.tableau.com/app/profile/nate.negash/viz/SalesProject_17505552023020/SalesDashboard)
 - Chart & Dashboard Image:
+<img width="450" height="300" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/1eedf27c-902e-479c-8333-b8adde9723cd" />
+<img width="450" height="300" alt="Customers Dashboard" src="https://github.com/user-attachments/assets/e4177420-3b0f-4d48-ab58-26544ce2ef88" />
+
+
+
   
 
 

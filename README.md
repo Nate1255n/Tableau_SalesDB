@@ -8,8 +8,8 @@ Build an insightful dashboard to help stakeholders understand KPI metrics, analy
 - <a href="https://github.com/Nate1255n/Tableau_SalesDB/blob/main/Data/Orders.csv">Dataset_Orders</a> 
 - <a href="https://github.com/Nate1255n/Tableau_SalesDB/blob/main/Products.csv">Dataset_Products</a>
 
-## Key Requirements
-(Sales Trends)
+## Key Requirements 
+### Sales Trends
 - Display a summary of total sales, profits and quantity for the current year and the previous year
 - Present the data for each KPI on a monthly basis for both the current year and the previous year
 - Identify months with highest and lowest sales and make them easy to recognize

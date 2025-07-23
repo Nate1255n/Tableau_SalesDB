@@ -23,7 +23,7 @@ Build an insightful dashboard to help stakeholders understand KPI metrics, analy
 
 ## Build the chart
 
-https://public.tableau.com/app/profile/nate.negash/viz/SalesProject_17505552023020/SalesDashboard?publish=yes
+- [Sales & Customer_Dashboard](https://public.tableau.com/app/profile/nate.negash/viz/SalesProject_17505552023020/SalesDashboard)
 
 
 

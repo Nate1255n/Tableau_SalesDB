@@ -9,3 +9,7 @@ Build an insightful dashboard to help stakeholders understand KPI metrics, analy
 - <a href="https://github.com/Nate1255n/Tableau_SalesDB/blob/main/Products.csv">Dataset_Products</a>
 
 
+## Build the data model
+<img width="652" height="364" alt="image" src="https://github.com/user-attachments/assets/32de2d26-0e97-424a-afe3-2baba791ad73" />
+
+

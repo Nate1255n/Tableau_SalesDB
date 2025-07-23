@@ -1,2 +1,1 @@
-- [Sales_Dashboard](https://public.tableau.com/app/profile/nate.negash/viz/SalesProject_17505552023020/SalesDashboard)
-- [Customer_Dashboard](https://public.tableau.com/app/profile/nate.negash/viz/SalesProject_17505552023020/SalesDashboard)
+- [Sales & Customer_Dashboard](https://public.tableau.com/app/profile/nate.negash/viz/SalesProject_17505552023020/SalesDashboard)
